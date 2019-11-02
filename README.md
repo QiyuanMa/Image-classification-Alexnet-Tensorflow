@@ -11,7 +11,7 @@ Run run.py, you should run train(), generate_pre_result(), evaluation_eval_datas
 
 # Results
 (1)The generated txt, which is for providing images locations for further steps.
-![Alt text](https://github.com/QiyuanMa/Image-classification-Alexnet-Tensorflow/raw/master/results/txt.png)
+![Alt text](https://github.com/qiyuanma/Image-classification-Alexnet-Tensorflow/raw/master/results/txt.png)
 
 
 
