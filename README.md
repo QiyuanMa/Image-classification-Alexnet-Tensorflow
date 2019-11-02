@@ -22,13 +22,13 @@ Run run.py, you should run train(), generate_pre_result(), evaluation_eval_datas
 (2)Ttraining models in checkpoint, please ba aware that the model selection should be effected by best_val_acc.
 You should use the model which testing accuracy higher than best_val_acc.
 
-![Alt text](results/checkpoint models.png)
+![Alt text](results/checkpointmodels.png)
 
-![Alt text](results/checkpoint models file.png)
+![Alt text](results/checkpointmodelsfile.png)
 
 (3)Training results(study rate is 0.0001)
 
-![Alt text](results/run train.png)
+![Alt text](results/runtrain.png)
 
 (4)Model labels(run test_pred_labels)
 
@@ -46,8 +46,8 @@ Run evaluation_eval_dataset()
 
 (3)The SVM image classification final accuracy result
 
-![Alt text](results/result svm.png)
+![Alt text](results/resultsvm.png)
 
 (4)The Alexnet image classification final accurary result
 
-![Alt text](results/result Alexnet.png)
+![Alt text](results/resultAlexnet.png)
